@@ -1,4 +1,4 @@
-<h1 align="center">This is Krishna Pandey,</h1>
+<h1 align="center">KRISHNA PANDEY</h1>
 <h3 align="center">A dedicated software developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krispyarena&label=Profile%20views&color=0e75b6&style=flat" alt="krispyarena" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, AI**
 
-- 📫Email **krispy.arena@gmail.com**
+- 📫 Email: **krispy.arena@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
