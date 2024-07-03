@@ -1,11 +1,7 @@
 <h1>Hi, This is Krishna Pandey</h1>
 <h3>A software developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krispyarena&label=Profile%20views&color=0e75b6&style=flat" alt="krispyarena" /> </p>
-
-<p align="left"> <a href="https://twitter.com/krispyarena" target="blank"><img src="https://img.shields.io/twitter/follow/krispyarena?logo=twitter&style=for-the-badge" alt="krispyarena" /></a> </p>
-
-- 🌱 I’m currently learning **Deep Learning, AI**
+- 🌱 Currently learning: **Deep Learning, AI**
 
 - 📫 Email: **krispy.arena@gmail.com**
 
