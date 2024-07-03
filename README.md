@@ -1,5 +1,5 @@
-<h1 align="center">Hi, This is Krishna Pandey</h1>
-<h3 align="center">A dedicated software developer from Nepal</h3>
+<h1>Hi, This is Krishna Pandey</h1>
+<h3>A software developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krispyarena&label=Profile%20views&color=0e75b6&style=flat" alt="krispyarena" /> </p>
 
