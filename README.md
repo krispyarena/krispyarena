@@ -1,8 +1,6 @@
 <h1>Hi, This is Krishna Pandey</h1>
 <h3>A software developer from Nepal</h3>
 
-- 🌱 Currently learning: **Deep Learning, AI**
-
 - 📫 Email: **krispy.arena@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
