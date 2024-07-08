@@ -1,4 +1,4 @@
-<h1>Hi, This is Krishna Pandey</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PT+Sans&weight=900&size=33&pause=1000&color=0077DF&random=false&width=435&lines=Hi%2C+This+is+Krishna+Pandey)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
