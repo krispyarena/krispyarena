@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=28&pause=1000&color=0077DF&random=false&width=600&lines=Hi%2C+This+is+Krishna+Pandey)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krispyarena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krispyarena" height="30" width="40" /></a>
 <a href="https://instagram.com/krispyarena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krispyarena" height="30" width="40" /></a>
